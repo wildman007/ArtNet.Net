@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/eDmx.ArtNet/obj
+/eDmx.ArtNet/bin/Debug
+/Sample/bin/Debug
+/Sample/obj/Debug
+/Sample/obj/Release

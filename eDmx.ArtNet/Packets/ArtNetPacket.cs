@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ArtNet.Enums;
+﻿using ArtNet.Enums;
 using System.IO;
 using ArtNet.IO;
 
